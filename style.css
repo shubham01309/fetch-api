@@ -32,6 +32,10 @@ body{
     width: 300px;
     margin: 10px;
 }
+#place #two{
+   
+    text-align: center;
+}
 .button{
     display: flex;
     justify-content: center;
